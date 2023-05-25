@@ -58,7 +58,7 @@ body {
 }
 
 .estudante-imagem{
-    width: 300px;
+    width: 1000px;
 }
 
 .estudante-icone{
@@ -87,4 +87,8 @@ body {
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
+}
+
+.email{
+    text-align: center;
 }
